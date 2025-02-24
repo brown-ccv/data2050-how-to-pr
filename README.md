@@ -3,13 +3,10 @@ Demonstration repository for the DATA2050: Coding + Collaboration using Git, Git
 
 ## 🎯 Aim for the Workshop
 
-We're going to collectively format a copy of the [Wikipedia page about Git](https://en.wikipedia.org/wiki/Git) using "[Markdown](https://daringfireball.net/projects/markdown/)," one of the text formats which GitHub uses for README files, comments on code, etc. 
+We're going to collectively update files within this directory, which follows the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template, a standarized structure for collaborative
+data science projects.
 
-## Resources
-
-🌍 The steps for the workshop are listed on [the workshop's web page](https://brownccv.notion.site/Collaboration-using-Git-GitHub-and-Pull-Requests-afdc0e8c48a449f2864f0e3e8b5b4a59).
-
-## Project Structure
+### 🗂️ Cookiecutter Data Science Project Structure
 ```
 ├── LICENSE            <- Open-source license if one is chosen
 ├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
@@ -61,3 +58,6 @@ We're going to collectively format a copy of the [Wikipedia page about Git](http
 
 --------
 
+## Resources
+
+🌍 The steps for the workshop are listed on [the workshop's web page](https://brownccv.notion.site/Collaboration-using-Git-GitHub-and-Pull-Requests-afdc0e8c48a449f2864f0e3e8b5b4a59).
