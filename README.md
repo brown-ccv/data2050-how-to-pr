@@ -6,6 +6,9 @@ Demonstration repository for the DATA2050: Coding + Collaboration using Git, Git
 We're going to collectively update files within this directory, which follows the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template, a standarized structure for collaborative
 data science projects.
 
+[Project Structure](https://docs.google.com/presentation/d/1VUG0ursutuPETHqoLLIaIq1CuxLEENHGYqSbnUJ6Npw/edit?usp=sharing): Slides on project structure best practices. 
+
+
 ### 🗂️ Cookiecutter Data Science Project Structure
 ```
 ├── LICENSE            <- Open-source license if one is chosen
