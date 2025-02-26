@@ -2,7 +2,5 @@ site_name: DATA2050
 # 
 site_author: Brown CCV
 # 
-pages:
-  - title: "hello"
-    url: "/"
-    layout: "new page"
+nav:
+    - info.md
