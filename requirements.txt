@@ -8,4 +8,5 @@ python-dotenv
 torch
 tqdm
 typer
+pandas
 -e .
