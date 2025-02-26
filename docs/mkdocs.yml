@@ -2,3 +2,5 @@ site_name: DATA2050
 # 
 site_author: Brown CCV
 # 
+nav:
+    - info.md
