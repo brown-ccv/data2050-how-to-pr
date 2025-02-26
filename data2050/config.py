@@ -12,7 +12,7 @@ logger.info(f"PROJ_ROOT path is: {PROJ_ROOT}")
 
 DATA_DIR = PROJ_ROOT / "notebooks" / "data"
 RAW_DATA_DIR = DATA_DIR / "raws"
-INTERIM_DATA_DIR = DATA_DIR / "interims"
+INTERIM_DATA_DIR = DATA_DIR / "interim"
 PROCESSED_DATA_DIR = DATA_DIR / "processed"
 EXTERNAL_DATA_DIR = DATA_DIR / "externals"
 
